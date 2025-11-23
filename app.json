@@ -1,0 +1,64 @@
+{
+  "expo": {
+    "name": "alx-project-nexus",
+    "slug": "alx-project-nexus",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/images/logo-1.png",
+    "scheme": "alxprojectnexus",
+    "userInterfaceStyle": "automatic",
+    "newArchEnabled": true,
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#E6F4FE",
+        "foregroundImage": "./assets/images/logo-1.png",
+        "backgroundImage": "./assets/images/logo-1.png",
+        "monochromeImage": "./assets/images/logo-1.png"
+      },
+      "edgeToEdgeEnabled": true,
+      "predictiveBackGestureEnabled": false
+    },
+    "web": {
+      "bundler": "metro",
+      "output": "static",
+      "favicon": "./assets/images/logo-1.png"
+    },
+    "plugins": [
+      "expo-router",
+      [
+        "expo-splash-screen",
+        {
+          "image": "./assets/images/logo-1.png",
+          "resizeMode": "cover",
+          "backgroundColor": "#ffffff",
+          "enableFullScreenImage": true,
+          "dark": {
+            "backgroundColor": "#000000"
+          }
+        }
+      ],
+      [
+        "expo-font",
+        {
+          "fonts": [
+            "./assets/fonts/Sora-Bold.ttf",
+            "./assets/fonts/Sora-ExtraBold.ttf",
+            "./assets/fonts/Sora-ExtraLight.ttf",
+            "./assets/fonts/Sora-Light.ttf",
+            "./assets/fonts/Sora-Medium.ttf",
+            "./assets/fonts/Sora-Regular.ttf",
+            "./assets/fonts/Sora-SemiBold.ttf",
+            "./assets/fonts/Sora-Thin.ttf"
+          ]
+        }
+      ]
+    ],
+    "experiments": {
+      "typedRoutes": true,
+      "reactCompiler": true
+    }
+  }
+}
