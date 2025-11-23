@@ -1,12 +1,12 @@
 # 🚀 ALX Project Nexus – Frontend Engineering Journey
 
+<div align="center">
+
 ![Project Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
 ![Program](https://img.shields.io/badge/Program-ALX_ProDev-orange?style=for-the-badge)
 ![Focus](https://img.shields.io/badge/Focus-Frontend_Engineering-blue?style=for-the-badge)
 
-| **Repository** | `alx-project-nexus` |
-| :--- | :--- |
-| **Author** | **Bouglace Marouane** (GitHub: [@BouglaceMarouane](https://github.com/BouglaceMarouane)) |
+</div>
 
 ---
 
@@ -204,5 +204,28 @@ Project Nexus reflects my entire evolution as a developer: from overcoming frust
 
 - Every project shaped me into a better engineer.
 
-**Author** | **Bouglace Marouane** 
-(GitHub: [@BouglaceMarouane](https://github.com/BouglaceMarouane))
+---
+
+## ⭐ Support
+
+If you like this project, don't forget to leave a ⭐ on GitHub. Thank you and happy coding! 🚀
+
+---
+
+## 📬 Stay in Touch
+
+<div align="center">
+
+### 👨‍💻 **Marouane Bouglace** - *Project Creator*
+
+[![Email](https://img.shields.io/badge/Email-bouglacemarouane@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bouglacemarouane@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-bouglacemarouane-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bouglacemarouane)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Marouane%20Bouglace-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/marouane-bouglace)
+
+</div>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
+</p>
