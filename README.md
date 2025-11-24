@@ -225,5 +225,5 @@ If you like this project, don't forget to leave a ⭐ on GitHub. Thank you and h
 </div>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=70&section=footer"/>
 </p>
