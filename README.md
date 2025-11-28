@@ -1,7 +1,6 @@
 # 🚀 ALX Project Nexus – Frontend Engineering Journey
 
 
-
 <div align="center">
 
 ![Project Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
